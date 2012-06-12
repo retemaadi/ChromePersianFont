@@ -4,7 +4,7 @@
    "version": "0.1",
    "content_scripts": [ {
       "all_frames": true,
-      "css": [ "css/bbcpersian.css" ],
+      "css": [ "css/fonts.css", "css/bbcpersian.css" ],
       "matches": [ "http://www.bbc.co.uk/persian/*", "http://www.bbc.co.uk/blogs/persian/*" ]
    } ]
 }

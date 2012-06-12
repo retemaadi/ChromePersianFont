@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'FreeFarsi Regular';
+    src: url('http://retemaadi.github.com/ChromePersianFont/fonts/FreeFarsi.woff') format('woff');
+}
+@font-face {
+    font-family: 'FreeFarsi Bold';
+    src: url('http://retemaadi.github.com/ChromePersianFont/fonts/FreeFarsi-Bold.woff') format('woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'FreeFarsi Italic';
+    src: url('http://retemaadi.github.com/ChromePersianFont/fonts/FreeFarsi-Italic.woff') format('woff');
+    font-style: italic, oblique;
+}
+@font-face {
+    font-family: 'FreeFarsi BoldItalic';
+    src: url('http://retemaadi.github.com/ChromePersianFont/fonts/FreeFarsi-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic, oblique;
+}
+

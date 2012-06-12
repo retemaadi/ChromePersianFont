@@ -1,0 +1,10 @@
+{
+   "name": "Chrome Persian Font",
+   "description": "Corrent persian font rendering problem in chrome on linux and chromeos",
+   "version": "0.1",
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/bbcpersian.css" ],
+      "matches": [ "http://www.bbc.co.uk/persian/*", "http://www.bbc.co.uk/blogs/persian/*" ]
+   } ]
+}
